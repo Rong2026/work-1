@@ -1,9 +1,12 @@
-export DEBUG_MODE="true"
+# Set debug mode via environment variable (optional)
+# # Set debug mode via environment variable (optional)
+# export DEBUG_MODE="true"
+# export LOG_PATH="./debug_log.txt"
+# export LOG_PATH="./debug_log.txt"
 
 # RUN_NAME="univg_12_20_dapo_second_continue_loss_difficulty_aware_anomaladd_combined_reward_prompt_new"
 RUN_NAME="1_20_full_new"
 #12_17_dapo_second_continue_loss_difficulty_aware_anomalplus_combined_reward_prompt
-export LOG_PATH="./debug_log_$RUN_NAME.txt"
 # MODEL_NAME=/path/to/your/stage1_cotsft_model
 # export MODEL_NAME="path/to/Qwen2.5-VL-7B-Instruct"
 export MODEL_NAME="path/to/Qwen2-VL-UniVG-R1"

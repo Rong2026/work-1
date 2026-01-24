@@ -1,4 +1,6 @@
-export DEBUG_MODE="true"
+# Set debug mode via environment variable (optional)
+# export DEBUG_MODE="true"
+# export LOG_PATH="./debug_log.txt"
 
 # RUN_NAME="univg_12_20_dapo_second_continue_loss_difficulty_aware_anomaladd_combined_reward_prompt_new"
 RUN_NAME="ablation_5000_samples"
