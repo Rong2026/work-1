@@ -29,8 +29,8 @@ DifferAD-R1 demonstrates significant improvements over existing baselines across
 ## 📦 AD-DualDiff Dataset
 
 <p align="center">
-  <a href="AD-DualDiff/dataset_pairs_show.pdf">
-    <img src="https://img.shields.io/badge/View-Dataset%20Showcase-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <a href="https://github.com/Rong2026/work-1/blob/main/DifferAD-R1/AD-DualDiff/dataset_pairs_show.pdf">
+    <img src="https://img.shields.io/badge/📊_Dataset_Showcase-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Dataset Pairs Showcase PDF" />
   </a>
 </p>
 
@@ -47,8 +47,8 @@ The **AD-DualDiff dataset** comprises **13K carefully curated paired images** sp
 ## 🔧 Pipeline Overview
 
 <p align="center">
-  <a href="models/pipeline.pdf">
-    <img src="https://img.shields.io/badge/View-Training%20Pipeline-2196F3?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <a href="https://github.com/Rong2026/work-1/blob/main/DifferAD-R1/models/pipeline.pdf">
+    <img src="https://img.shields.io/badge/🔄_Training_Pipeline-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Training Pipeline PDF" />
   </a>
 </p>
 
@@ -65,8 +65,8 @@ The **AD-DualDiff dataset** comprises **13K carefully curated paired images** sp
 ### 🧠 Model Dialogues
 
 <p align="center">
-  <a href="output_show/duihua.pdf">
-    <img src="https://img.shields.io/badge/View-Model%20Dialogues-FF9800?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <a href="https://github.com/Rong2026/work-1/blob/main/DifferAD-R1/output_show/duihua.pdf">
+    <img src="https://img.shields.io/badge/💬_Model_Dialogues-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="Model Dialogues PDF" />
   </a>
 </p>
 
@@ -81,8 +81,8 @@ The **AD-DualDiff dataset** comprises **13K carefully curated paired images** sp
 ### 🎯 Visualization Results
 
 <p align="center">
-  <a href="output_show/display.pdf">
-    <img src="https://img.shields.io/badge/View-Localization%20Results-9C27B0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <a href="https://github.com/Rong2026/work-1/blob/main/DifferAD-R1/output_show/display.pdf">
+    <img src="https://img.shields.io/badge/📈_Localization_Results-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="Localization Results PDF" />
   </a>
 </p>
 
