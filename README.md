@@ -26,38 +26,68 @@ DifferAD-R1 demonstrates significant improvements over existing baselines across
 
 ## 📁 Dataset & Resources
 
-### AD-DualDiff Dataset
-<div align="center">
+## 📦 AD-DualDiff Dataset
+
+<p align="center">
   <a href="AD-DualDiff/dataset_pairs_show.pdf">
-    <img src="https://img.shields.io/badge/View-Dataset%20Showcase-4CAF50?style=for-the-badge&logo=pdf&logoColor=white" alt="Dataset Pairs Showcase">
+    <img src="https://img.shields.io/badge/View-Dataset%20Showcase-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
-  <p><em>AD-DualDiff dataset showcasing paired normal/anomalous images across 20 industrial categories</em></p>
-</div>
+</p>
 
-The AD-DualDiff dataset comprises 13K carefully curated image pairs spanning 20 industrial categories, designed specifically for difference-based anomaly localization tasks.
+<p align="center">
+  <em>
+    AD-DualDiff dataset showcasing paired normal/anomalous images across 20 industrial categories
+  </em>
+</p>
 
-### Pipeline Overview
-<div align="center">
+The **AD-DualDiff dataset** comprises **13K carefully curated paired images** spanning **20 industrial categories**, specifically designed for **difference-based industrial anomaly localization** under one-shot and open-set settings.
+
+---
+
+## 🔧 Pipeline Overview
+
+<p align="center">
   <a href="models/pipeline.pdf">
-    <img src="https://img.shields.io/badge/View-Training%20Pipeline-2196F3?style=for-the-badge&logo=pdf&logoColor=white" alt="Training Pipeline">
+    <img src="https://img.shields.io/badge/View-Training%20Pipeline-2196F3?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
-  <p><em>DifferAD-R1 training pipeline with dual-image paradigm and reinforcement learning</em></p>
-</div>
+</p>
+
+<p align="center">
+  <em>
+    DifferAD-R1 training pipeline with a dual-image paradigm and reinforcement learning
+  </em>
+</p>
+
+---
 
 ## 💬 Interactive Examples
 
-### Model Dialogues
-<div align="center">
-  <a href="output_show/duihua.pdf">
-    <img src="https://img.shields.io/badge/View-Model%20Dialogues-FF9800?style=for-the-badge&logo=pdf&logoColor=white" alt="Model Dialogues">
-  </a>
-  <p><em>Interactive dialogues showing anomaly localization reasoning process</em></p>
-</div>
+### 🧠 Model Dialogues
 
-### Visualization Results
-<div align="center">
-  <a href="output_show/display.pdf">
-    <img src="https://img.shields.io/badge/View-Localization%20Results-9C27B0?style=for-the-badge&logo=pdf&logoColor=white" alt="Localization Results">
+<p align="center">
+  <a href="output_show/duihua.pdf">
+    <img src="https://img.shields.io/badge/View-Model%20Dialogues-FF9800?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
-  <p><em>Visualization of anomaly localization results across different industrial categories</em></p>
-</div>
+</p>
+
+<p align="center">
+  <em>
+    Interactive dialogues illustrating the anomaly localization reasoning process
+  </em>
+</p>
+
+---
+
+### 🎯 Visualization Results
+
+<p align="center">
+  <a href="output_show/display.pdf">
+    <img src="https://img.shields.io/badge/View-Localization%20Results-9C27B0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    Visualization of anomaly localization results across diverse industrial categories
+  </em>
+</p>
