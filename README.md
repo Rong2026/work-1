@@ -29,8 +29,8 @@ DifferAD-R1 demonstrates significant improvements over existing baselines across
 ## 📦 AD-DualDiff Dataset
 
 <p align="center">
-  <a href="https://github.com/Rong2026/work-1/blob/main/DifferAD-R1/AD-DualDiff/dataset_pairs_show.pdf">
-    <img src="https://img.shields.io/badge/📊_Dataset_Showcase-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Dataset Pairs Showcase PDF" />
+  <a href="https://github.com/Rong2026/work-1/blob/main/DifferAD-R1/AD-DualDiff/dataset_pairs_show.png">
+    <img src="https://raw.githubusercontent.com/Rong2026/work-1/main/DifferAD-R1/AD-DualDiff/dataset_pairs_show.png" alt="AD-DualDiff Dataset Showcase" width="95%" />
   </a>
 </p>
 
@@ -47,8 +47,8 @@ The **AD-DualDiff dataset** comprises **13K carefully curated paired images** sp
 ## 🔧 Pipeline Overview
 
 <p align="center">
-  <a href="https://github.com/Rong2026/work-1/blob/main/DifferAD-R1/models/pipeline.pdf">
-    <img src="https://img.shields.io/badge/🔄_Training_Pipeline-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Training Pipeline PDF" />
+  <a href="https://github.com/Rong2026/work-1/blob/main/DifferAD-R1/models/pipeline.png">
+    <img src="https://raw.githubusercontent.com/Rong2026/work-1/main/DifferAD-R1/models/pipeline.png" alt="DifferAD-R1 Training Pipeline" width="95%" />
   </a>
 </p>
 
@@ -65,8 +65,8 @@ The **AD-DualDiff dataset** comprises **13K carefully curated paired images** sp
 ### 🧠 Model Dialogues
 
 <p align="center">
-  <a href="https://github.com/Rong2026/work-1/blob/main/DifferAD-R1/output_show/duihua.pdf">
-    <img src="https://img.shields.io/badge/💬_Model_Dialogues-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="Model Dialogues PDF" />
+  <a href="https://github.com/Rong2026/work-1/blob/main/DifferAD-R1/output_show/duihua.png">
+    <img src="https://raw.githubusercontent.com/Rong2026/work-1/main/DifferAD-R1/output_show/duihua.png" alt="Model Dialogues" width="95%" />
   </a>
 </p>
 
@@ -81,8 +81,8 @@ The **AD-DualDiff dataset** comprises **13K carefully curated paired images** sp
 ### 🎯 Visualization Results
 
 <p align="center">
-  <a href="https://github.com/Rong2026/work-1/blob/main/DifferAD-R1/output_show/display.pdf">
-    <img src="https://img.shields.io/badge/📈_Localization_Results-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="Localization Results PDF" />
+  <a href="https://github.com/Rong2026/work-1/blob/main/DifferAD-R1/output_show/display.png">
+    <img src="https://raw.githubusercontent.com/Rong2026/work-1/main/DifferAD-R1/output_show/display.png" alt="Anomaly Localization Results" width="95%" />
   </a>
 </p>
 
@@ -91,3 +91,25 @@ The **AD-DualDiff dataset** comprises **13K carefully curated paired images** sp
     Visualization of anomaly localization results across diverse industrial categories
   </em>
 </p>
+---
+
+### 🎬 Industrial Deployment Demo on a 2B Model
+
+<p align="center">
+  <video src="https://github.com/Rong2026/work-1/raw/main/DifferAD-R1/output_show/industrial_deployment_2B.mp4" controls width="95%">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rong2026/work-1/blob/main/DifferAD-R1/output_show/industrial_deployment_2B.mp4">
+    ▶ Watch the 2B Industrial Deployment Demo
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    Industrial deployment demo showing the transfer of DifferAD-R1 to a lightweight 2B-scale model for real-world anomaly localization.
+  </em>
+</p>
+
